@@ -1,7 +1,7 @@
 ## Hi everybody
 
 My name is Paul and I'm in a job transition. 
-
+I'm found of coding and using all the tools I know  to create funny programs.
 <!--
 **polmontou/polmontou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
