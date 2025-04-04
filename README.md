@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi everybody
+
+My name is Paul and I'm in a job transition. 
 
 <!--
 **polmontou/polmontou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
